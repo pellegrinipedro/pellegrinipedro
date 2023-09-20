@@ -1,14 +1,13 @@
 ### Hi there, I am Pedro! 👋 
 
-I am an agronomic engineer working with geospatial technologies.  
+I am an agronomic engineer working with geospatial technologies and simulation models.
 
-🔎 I’m currently doing my PhD at the University of Buenos Aires
+🔎 I’m currently working in Ag tech, focusing on science-based API development in Python.
 
-🌍 My research is focused on the estimation of crops yields using remote sensors
+💻 I enjoy expanding my computer science knowledge, and currently learning unit testing.
 
-💻 I really like programming in R and using Google Earth Engine 
+🌍 My main professional goal is to generate knowledge and tools to improve agriculture. 
 
-🌱 I’m currently learning Python
           
 
 <!--

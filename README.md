@@ -1,5 +1,3 @@
-### Hi there, I am Pedro! 👋 
-
 I am an agronomic engineer working with geospatial technologies and simulation models.
 
 🔎 I’m currently working in Ag tech, focusing on science-based API development in Python.

@@ -2,8 +2,6 @@ I am an agronomic engineer working with geospatial technologies and simulation m
 
 🔎 I’m currently working in Ag tech, focusing on science-based API development in Python.
 
-💻 I enjoy expanding my computer science knowledge, and currently learning unit testing.
-
 🌍 My main professional goal is to generate knowledge and tools to improve agriculture. 
 
           
